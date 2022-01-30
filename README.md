@@ -2,7 +2,7 @@
 - 👀 I’m interested in software programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on oop
-- 📫 How to reach me: emiliano.spiller@iisviolamarchesini.edu.it
+- 📫 How to reach me: emiliano.spiller@gmail.com
 
 <!---
 dummyEmil/dummyEmil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
